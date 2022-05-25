@@ -1,0 +1,532 @@
+#EXTM3U
+
+
+
+#EXTINF:-1  group-title="Costa Rica", Canal 4 Repretel
+
+
+https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal4/smil:live.smil/chunklist_b698000.m3u8
+
+
+#EXTINF:-1  group-title="Costa Rica", Canal 6 Repretel
+
+https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b698000.m3u8
+
+
+#EXTINF:-1  group-title="Costa Rica", Canal 7 Teletica
+
+https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO58Vy6tzmXv62KYtw8kHJTN3sIv_gtK8jlPYLi4q8s8mV)/dm/3/x29e3wg/d/live-1.m3u8#cell=lnyc
+
+
+#EXTINF:-1  group-title="Costa Rica", Teletica Radio
+
+https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8
+
+
+#EXTINF:-1  group-title="Costa Rica", Teletica Classic
+
+https://zkpywb8qybeg-hls-live.5centscdn.com/TeleticaRadio/d35b51b639528d580362ca7042de6a0e.sdp/chunks.m3u8
+
+
+
+#EXTINF:-1  group-title="Costa Rica", Canal 8 Multimedios
+
+
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/5a7b1e63a8da282c34d65445/publish/media_800.m3u8?aid=579bd29dc99290cf08362c3b&uid=mQ6bmuHRT536Vqx44NZXZr5BPo3Pew1m&sid=Z1ZseeOWtRFh1mJhDnK6rHmylwhxhwvq&pid=llmpImVjVUNHqkDAHTnjZZ0uxgbnoIly&ref=https%3A%2F%2Fwww.multimedios.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1653109460876&ot=pyWc9iWPQXbYm_Q-oe4NkQ&proto=https&pz=us
+
+
+
+#EXTINF:-1  group-title="Costa Rica", Canal 11 Repretel
+
+https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal11/smil:live.smil/chunklist_b348000.m3u8
+
+
+#EXTINF:-1  group-title="Costa Rica", Canal Colosal TV
+
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w667357328.m3u8
+
+#EXTINF:-1  group-title="Costa Rica", Colosal Radio
+
+https://5d16127744872.streamlock.net/canal3/canal3/chunklist_w680377956.m3u8
+
+
+#EXTINF:-1  group-title="Costa Rica", Canal VM Latino
+
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w719402253.m3u8
+
+
+#EXTINF:-1  group-title="Costa Rica", Canal 13 Sinart
+
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUubg-D4-UT5BhiOTCXkN3L5BnzDpFvDNbKYvY1bGmub)/dm/3/x7vh8g3/d/live-2.m3u8#cell=lnyc
+
+
+#EXTINF:-1  group-title="Costa Rica", Canal 15 UCR
+
+
+http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w895385146.m3u8
+
+
+
+#EXTINF:-1  group-title="Costa Rica", Canal Anexion
+
+https://streannlive-lh.akamaihd.net/i/peitv_1@433127/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1653538979~acl=*~data=hdntl~hmac=ec50dcfa2a02a9d0a9c185d0edb3606a8ba4449bfaaf3b944103a8467f259e82
+
+
+
+#EXTINF:-1  group-title="Costa Rica", Canal TeleSur
+
+https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w1158987680.m3u8
+
+
+#EXTINF:-1  group-title="Costa Rica", Canal San Jose TV
+
+https://rtmp.info/sanjosetv/envivo/chunklist_w1722800484.m3u8
+
+
+
+#EXTINF:-1  group-title="Costa Rica", Canal Latinos TV (España)
+
+
+https://inliveserver.com:1936/14012/14012/chunklist_w1457386904.m3u8
+
+
+
+
+
+
+#EXTINF:-1  group-title="Guatemala", Canal Guatevision
+
+https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/live-audio_track_0_0_und=64000-video_track=6500000.m3u8
+
+#EXTINF:-1  group-title="Guatemala", Canal 11 Guatemala
+
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1  group-title="Guatemala", Canal 7 Televisiete Guatemala
+
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1  group-title="Guatemala", Canal TN 23 Guatemala
+
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal23.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1  group-title="Guatemala", Canal Azteca Guatemala
+
+https://5e50264bd6766.streamlock.net/aztecaguate/aztecaguate.smil/chunklist_w952976677_b878000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIyIDc6MTQ6MDQgUE0maGFzaF92YWx1ZT1TOG9YNkRGSlkvWkcvWkdLNndYVkhBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
+
+#EXTINF:-1  group-title="Guatemala", Canal Azteca Guatemala 2
+
+https://5e50264bd6766.streamlock.net/aztecaguate/aztecaguate.smil/chunklist_w1385504007_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIyIDc6MjQ6MTggQU0maGFzaF92YWx1ZT0xVm5nRUx3Zzd3ajgzQTF3b00yUUt3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
+
+
+
+
+
+
+#EXTINF:-1  group-title="Panama", Canal TVN
+
+https://bcovlive-a.akamaihd.net/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1  group-title="Panama", Canal TVN Max
+
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1  group-title="Panama", Canal TVN Exclusivo
+
+https://streann-msl4.akamaized.net/hls/live/2037509/exclusivohls/master1080.m3u8
+
+#EXTINF:-1  group-title="Panama", Canal +23 Panama
+
+https://mediacp.us:8081/23tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  group-title="Panama", Canal RPC
+
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/ec85b4776cab428cac904251d14ed492/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5d88d659120a717cf93ce620/91efa484-ade1-4e24-ab97-25a264fa3d55/3.m3u8?aid=5d409041e10de808a34fce18&uid=mQ6bmuHRT536Vqx44NZXZr5BPo3Pew1m&sid=bAXYCIs3YDmkR6L73usOutnw5z2dImdU&pid=tZ7GkLn1Lyy3YznxilwaI53vyxB6d8MH&ref=https%3A%2F%2Fwww.rpctv.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1652748611678&ot=z5Tu_8tWcsCGbaMY-VzyKQ&proto=https&pz=us
+
+
+#EXTINF:-1  group-title="Panama", Canal Telemetro
+
+
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/9117f0590fc44e748830d7f17a172c9a/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5d88dd2229b0890723df2165/bb606a62-0af9-472a-be49-73c6d7fdd6e2/1.m3u8?aid=5d409041e10de808a34fce18&uid=mQ6bmuHRT536Vqx44NZXZr5BPo3Pew1m&sid=OVnwMdRNkOgGEdTsAE3t74Bnd9RbEXUW&pid=plaxt86bBoFi0YWUxXNLb16SPxFXRgGw&ref=https%3A%2F%2Fwww.telemetro.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1653032272552&ot=gSuxrFDY5jZUNDqGBVTZ_w&proto=https&pz=us
+
+
+#EXTINF:-1  group-title="Panama", Canal Telemetro Radio
+
+
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream/5d97ca5673de440761ff194e/publish/media_900.m3u8?aid=5d409041e10de808a34fce18&dnt=true&uid=mQ6bmuHRT536Vqx44NZXZr5BPo3Pew1m&sid=OVnwMdRNkOgGEdTsAE3t74Bnd9RbEXUW&pid=lrs1e5uutqAsR0836Q4oGVhqXYJlMcih&ref=www.telemetro.com&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1653032365335&ot=ScmKm4Eb-EArOhoafhJQkA&proto=https&pz=us
+
+
+
+
+
+#EXTINF:-1  group-title="Honduras", Canal Televicentro
+
+https://stream-02.sv4.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRISX36ETZTF0QXJiX6DAr7OCzWkiZn0tkilFVNHlIz_H)/dm/3/x88jdft/s/live-3.m3u8#cell=lsv4
+
+#EXTINF:-1  group-title="Honduras", Canal VTV
+
+https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUyNzUzMDcxLCJzZXNzaW9uIjoiMTg2LjE3Ny4xNTYuMTMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE3Ny4xNTYuMTMiXX0sInNpZ25hdHVyZSI6ImIxMTE3NWY2OTFiM2M5N2IxMTM3YmUxMjczNTkyOTMyYjc4ZGI1ZjcifQ%3D%3D
+
+
+#EXTINF:-1  group-title="Honduras", Canal CBC
+
+https://streannlive-lh.akamaihd.net/i/canalseishonduras_1@708815/index_1_av-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1652753767~acl=*~data=hdntl~hmac=27232142faef0cf532c9599133202c3b63a9df669d3e92a84957e2633a01d857
+
+
+#EXTINF:-1  group-title="Honduras", Canal 5
+
+https://stream-02.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRPK-SsIDjHKyCBmVDi9EO_pMYtr0ZLOx5JCXimbshswp)/dm/3/x88jd1d/s/live-3.m3u8#cell=lnyc
+
+
+#EXTINF:-1  group-title="Honduras", Canal HCH
+
+https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpndpJMmE39WQLgN7PBYE0U6Cwu-rJfem-VkUEHVuSp_D)/dm/3/x81za5c/s/live-3.m3u8#cell=lnyc
+
+
+
+
+#EXTINF:-1  group-title="Nicaragua", Canal 12
+
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w909276012.m3u8
+
+
+#EXTINF:-1  group-title="Nicaragua", Canal TN8
+
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w124673021.m3u8
+
+#EXTINF:-1  group-title="Nicaragua", Canal 6
+
+
+https://stream-01.nyc.dailymotion.com/sec(3LGBMbo2Zno2o8YrbIxOfuHTwhC24QR7LWzuESE_ceKSC77W4tcXQX-HPVlB5_h-)/dm/3/x7nngbi/s/live-1.m3u8#cell=lnyc
+
+
+#EXTINF:-1  group-title="Nicaragua", Canal 4
+
+https://stream-03.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVjzqvFIcQekQiExVGZCOsIEXTGOJSOnL_0j9itAFpX4VP)/dm/3/x7rwv8c/s/live-1.m3u8#cell=lnyc
+
+
+
+
+
+#EXTINF:-1  group-title="El Salvador", Canal 10
+
+https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/chunklist_w307239590_b3428000_sleng.m3u8?DVR?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIyIDI6NTE6MDAgQU0maGFzaF92YWx1ZT10aHc0RDdVMW9ESWNDVTZseE1BRS93PT0mdmFsaWRtaW51dGVzPTUmaWQ9
+
+
+
+#EXTINF:-1  group-title="Noticias", Canal DW Español
+
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+
+#EXTINF:-1  group-title="Noticias", Canal RT
+https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
+
+
+#EXTINF:-1  group-title="Noticias", Canal RTVE
+
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
+
+
+#EXTINF:-1  group-title="Noticias", Canal Euro News
+
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+#EXTINF:-1  group-title="Mexico", Canal Imagen TV Mexico
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlONlhK778y9I88g5zxZrDH3228kyB1ycgZNmgcBQAv7)/dm/3/x82z4if/d/live-0.m3u8#cell=lnyc
+
+
+#EXTINF:-1  group-title="Mexico", Canal Multimedios Monterrey
+
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/56a3e60cbd7f4933b1c97937668b884d/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57b4dbf5dbbfc8f16bb63ce1/902fb0ff-37e1-4f3c-ac25-d143b854bc5f/0.m3u8?aid=579bd29dc99290cf08362c3b&pid=5fGDwzi542MsZ1lm3SbqdL0iviSPKS2Y&sid=rlT1ZewT6JP40ZwxmEfKfoydAwOT4u7S&uid=S6i24naVwqM7bRuDOCxtnsLtf3tGNBrc&es=us-b4-p-e-pb13.cdn.mdstrm.com&ote=1652757909102&ot=n8q7h1C4_6y-vsiaXzJ8_w&proto=https&pz=us
+
+#EXTINF:-1  group-title="Mexico", Canal Azteca Uno
+
+http://regioplay.xyz/php/SR_REGIO_715022_/regionuevo.php?c=aztecauno&token=srregio.net&dos=.m3u8
+
+
+#EXTINF:-1  group-title="Mexico", Canal Azteca Siete
+
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/1_.m3u8?token=2LiUd8Qq-YOF6191HMsE2Q&expires=1653465792&ip=149.56.143.104
+
+
+
+#EXTINF:-1  group-title="Mexico", Canal Azteca+
+
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream/60b56be1000ea50835fa1e63/publish/media_600.m3u8?aid=5fea09a071a9945deebf5f7c&pid=RERLsX4iVLUSHaag9OK6XdWqkfduwI0F&sid=L2EM90N2NBchwAKVBRoq1ULukPuOibtJ&uid=QXytxrZSHP7eiITcOhBXFdGHTVPxR9cF&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1652761121597&ot=-jwBhYQL1m3_Jw9IRmyKQw&proto=https&pz=us
+
+
+#EXTINF:-1  group-title="Mexico", Canal Chavo TV
+
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
+
+
+#EXTINF:-1  group-title="Mexico", Canal Estrella TV
+
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1  group-title="Mexico", Canal 5
+
+
+http://regioplay.xyz/php/SR_REGIO_715022_/regionuevo.php?c=elcinco&token=srregio.net&dos=.m3u8
+
+
+
+
+
+
+#EXTINF:-1  group-title="Colombia", Canal RCN+
+
+https://rcntv-rcnmas-1-us.roku.wurl.tv/4300.m3u8
+
+
+
+#EXTINF:-1  group-title="Colombia", Canal RCN
+
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQPS1kpmDkUxNy4ExnwXZJ28I0_Tu2ewzie8INwUzbh0)/dm/3/x7vyv0z/s/live-3.m3u8
+
+
+#EXTINF:-1  group-title="Colombia", Canal Caracol
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/259_.m3u8?token=AUgSTK49BwG788ZhP8n9-Q&expires=1653466472&ip=149.56.143.104
+
+
+
+#EXTINF:-1  group-title="Colombia", Canal Trece+
+
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/chunklist_w464052964_b2250000.m3u8
+
+
+
+
+
+#EXTINF:-1  group-title="Chile", Canal Mega
+
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?nimblesessionid=20656729
+
+
+#EXTINF:-1  group-title="USA Latino", Canal Univision VPN
+
+https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_4500_pc.m3u8?hdnea=st=1652673835~exp=1652760235~acl=*~hmac=a6703cab46af6f07d127ee9b1b43445a53253fec8e603817b93a2553be4d4e04&fdvr=dvr
+
+#EXTINF:-1  group-title="USA Latino", Canal Unimas 
+
+http://regioplay.xyz/php/SR_REGIO_715022_/regionuevo.php?c=unimas&token=srregio.net&f=.m3u8
+
+#EXTINF:-1  group-title="USA Latino", Canal Galavision VPN
+
+https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_4500_pc.m3u8?hdnea=st=1652674209~exp=1652760609~acl=*~hmac=4cafe69ba17407cd0d963aac8d5ad335a88cce3921482162fe1ab3759962ecb9&fdvr=dvr
+
+
+#EXTINF:-1  group-title="USA Latino", Canal Telemundo
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/48_.m3u8?token=OQwiXJlvk47lctjcz8UhJQ&expires=1653465238&ip=149.56.143.104
+
+
+
+
+
+#EXTINF:-1  group-title="España", Canal 1
+
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
+
+#EXTINF:-1  group-title="España", Canal 2
+
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_dvr_1080.m3u8
+
+
+#EXTINF:-1  group-title="España", Canal A3 Series
+
+
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-secure/5cae562e0ca2f30815231c0f/publish/media_4000.m3u8?aid=5b8437d857a34c21a93dd41a&access_token=DST4b676d7da5a2a92ee15f8efcbcd00606&pid=W58soSBEAGXwUjGQe5jJul4qzLCGfQnq&sid=Rw1UGcVKj0CjCKuGQEGqrYosdraf1C8N&uid=d6leAFPI2C1yB01Ey4NJap3MNHCbMiB5&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1653029212028&ot=JlDbzJlN1927RXYRuscTIA&proto=https&pz=us
+
+
+#EXTINF:-1  group-title="España", Canal 8
+
+
+https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/chunklist_b3203072.m3u8
+
+
+
+
+
+
+#EXTINF:-1  group-title="Entretenimiento", Canal Cosmo
+
+http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1050893568_b3128000_sling.m3u8
+
+
+#EXTINF:-1  group-title="Entretenimiento", Canal TLC
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/100_.m3u8?token=vq6G7dUzTAEzWAewBgVy2Q&expires=1653466139&ip=149.56.143.104
+
+
+#EXTINF:-1  group-title="Entretenimiento", Canal Lifetime
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/104_.m3u8?token=2ZIUjlqdNRthjuYL4s36zQ&expires=1653466289&ip=149.56.143.104
+
+
+
+
+
+#EXTINF:-1  group-title="Infantil", Canal Pinkfong
+
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1  group-title="Infantil", Canal Pocoyo
+
+https://youtu.be/cMqKE0lZKXk
+
+
+#EXTINF:-1  group-title="Infantil", Canal Lego
+
+https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+
+
+
+
+
+#EXTINF:-1  group-title="Entretenimiento", Canal Simpsons
+ 
+https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w72409067.m3u8
+
+
+#EXTINF:-1  group-title="Entretenimiento", Canal Anime
+
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+
+#EXTINF:-1  group-title="Entretenimiento", Canal Anime2
+
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1  group-title="Deportes", Canal RedBull
+
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+
+
+#EXTINF:-1  group-title="Deportes", Canal Real Madrid
+
+
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1653025933~acl=%2f*~data=hdntl~hmac=29e3974824f1200a80aee2335e8eef165b329a853c7fb748288f65d5ea5a096c
+
+
+
+#EXTINF:-1  group-title="Deportes", Canal Barcelona FC
+
+https://streamamg-fcbar01.akamaized.net/hls/live/2040130/0_fcq6zq7g/720p/hdntl=exp=1653025631~acl=%2f*~data=hdntl~hmac=6c879c2e7d54c9b40895cacd14c306f5421ee4f503013053a783f3559cdf7859/prog_index.m3u8
+
+
+#EXTINF:-1  group-title="Deportes", Canal Claro Sports
+
+http://regioplay.xyz/php/SR_REGIO_715022_/regionuevo.php?c=clarosports&token=srregio.net&f=.m3u8
+
+#EXTINF:-1  group-title="Deportes", Canal ESPN Deportes
+
+http://regioplay.xyz/php/SR_REGIO_715022_/regionuevo.php?c=espndep&token=srregio.net&f=.m3u8
+
+#EXTINF:-1  group-title="Deportes", Canal ESPN 1
+
+http://regioplay.xyz/php/SR_REGIO_715022_/regionuevo.php?c=espn1-mx&token=srregio.net&f=.m3u8
+
+#EXTINF:-1  group-title="Deportes", Canal ESPN 2
+
+http://regioplay.xyz/php/SR_REGIO_715022_/regionuevo.php?c=espn2-mx&token=srregio.net&f=.m3u8
+
+#EXTINF:-1  group-title="Deportes", Canal Fox Sports 1
+
+http://23.148.145.49:8081/televall2022/604_.m3u8?token=rLMt-hGQ-e9l29bUSZ1AmA&expires=1653026831
+
+#EXTINF:-1  group-title="Deportes", Canal Fox Sports 2
+
+http://regioplay.xyz/php/SR_REGIO_715022_/regionuevo.php?c=foxsports2-mx&token=srregio.net&f=.m3u8
+
+#EXTINF:-1  group-title="Deportes", Canal Gol TV
+
+http://23.148.145.49:8081/televall2022/609_.m3u8?token=8TfCXrt7RguwC11PvxybNw&expires=1653026681
+
+
+#EXTINF:-1  group-title="Deportes", Canal TUDN
+
+http://regioplay.xyz/php/SR_REGIO_715022_/regionuevo.php?c=tudn-mx&token=srregio.net&f=.m3u8
+
+#EXTINF:-1  group-title="Deportes", Canal TUDN US
+
+http://regioplay.xyz/php/SR_REGIO_715022_/regionuevo.php?c=tudn-us&token=srregio.net&f=.m3u8
+
+
+#EXTINF:-1  group-title="Deportes", Canal WWE
+
+http://regioplay.xyz/php/SR_REGIO_715022_/regionuevo.php?c=wwe&token=srregio.net&f=.m3u8
+
+
+
+#EXTINF:-1  group-title="Cocina", Canal Tastemade
+
+https://tastemadees16intl-brightcove.amagi.tv/playlist1080p.m3u8
+
+
+#EXTINF:-1  group-title="Viajes", Canal Viajes
+
+https://139vod-adaptive.akamaized.net/exp=1652801218~acl=%2F8b75475a-b735-4345-9721-97870f85e6e2%2F%2A~hmac=6d20d76b00fe47e36358b84a670d385aaff1a723d037e92cfb7f8e7e21b150cc/8b75475a-b735-4345-9721-97870f85e6e2/sep/video/b1d38969/playlist.m3u8?
+
+
+
+
+
+#EXTINF:-1  group-title="Camara Costa Rica", Camara Registro Oeste
+
+https://stream-us1-charlie.dropcam.com/nexus_aac/8d299edbb63a4e648110d898571005f6/chunklist_w1673934210.m3u8?public=GWlGPmji2B
+
+
+#EXTINF:-1  group-title="Camara Costa Rica", Camara Registro Este
+
+https://stream-us1-charlie.dropcam.com/nexus_aac/68524e9e61084e7cbee03b7a311d35f8/chunklist_w1362812824.m3u8?public=FfxtH1MG66
+
+#EXTINF:-1  group-title="Camara Costa Rica", Camara Plaza Democracia
+
+https://stream-us1-charlie.dropcam.com/nexus_aac/09f0ce4fe00b4dcdb0be4c7b54f7b8be/chunklist_w1116739236.m3u8?public=CcxBVwfkcJ
+
+#EXTINF:-1  group-title="Camara Costa Rica", Camara Plaza de Deportes Vista Oeste
+
+https://stream-us1-charlie.dropcam.com/nexus_aac/e981f094fd114136bc43337f22d28d10/chunklist_w696234066.m3u8?public=g1nu8CY4u4
+
+#EXTINF:-1  group-title="Camara Costa Rica", Camara Sector Plaza de Deportes Vista Este
+
+https://stream-us1-charlie.dropcam.com/nexus_aac/dd02c66d05624b23b862814ee6aa1d79/chunklist_w227420428.m3u8?public=WRTOwTPxs2
+
+#EXTINF:-1  group-title="Camara Costa Rica", Camara Desamparados Sector el Cruce, Vista al Sur
+
+https://stream-us1-charlie.dropcam.com/nexus_aac/59121d1b5103485783b4cb6698cc291c/chunklist_w590747857.m3u8?public=Gnh5CElAqv
+
+#EXTINF:-1  group-title="Camara Costa Rica", Camara Desamparados Sector el Cruce, Vista al Norte
+
+https://stream-us1-charlie.dropcam.com/nexus_aac/c02fc879164b43388f07c64942134692/chunklist_w1558728640.m3u8?public=DmOGZX0Go9
+
+#EXTINF:-1  group-title="Camara Costa Rica", Camara Ruta 1 Limonal, Cruce de Limonal
+
+https://stream-us1-charlie.dropcam.com/nexus_aac/dbe9c7ebdce34e1ebb3d40e3b92aa0db/chunklist_w822953781.m3u8?public=RaQiiYuAOG
+
+#EXTINF:-1  group-title="Camara Costa Rica", Camara Jaco
+
+https://s38.ipcamlive.com/streams/26j7ov4t1xurzqcj3/stream.m3u8
+
+
+#EXTINF:-1  group-title="Camara Costa Rica", Camara Tamarindo
+
+https://e1-na3.angelcam.com/cameras/103922/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIxMDM5MjIiLCJkZXZpY2VfaWQiOiIxMDM5MjIiLCJ0aW1lIjoxNjUyOTQ1Mjc3OTczNDQzLCJ0aW1lb3V0IjozNjAwfQ%3D%3D%2E6243ed849628facd65d49c942a1a9f1a851f462d506203af3dcec8e4773a48e5
+
+
+#EXTINF:-1  group-title="Camara Costa Rica", Camara Playa Hermosa
+
+https://cams.cdn-surfline.com/cdn-ec/cr-playahermosa/chunklist.m3u8
