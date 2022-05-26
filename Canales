@@ -234,6 +234,10 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
+#EXTINF:-1  group-title="Noticias", Canal Todo Noticias
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653568655/ei/LyCPYrnoGo6HkASH358g/ip/186.177.156.13/id/wHn1_QVoXGM.12/source/yt_live_broadcast/requiressl/yes/tx/24200494/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC-4D307IHmPdNtASXFaaBulewjHZIRKtJ9cGow/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgekzt0d0pSeiNFdVsghFATIFOLZLBXu-kV1XCW4clmcwCIQD3-evsbpnojUlYTJ-oepe1bRkjqmNCTuc6Ssvu9JN3-Q%3D%3D/file/index.m3u8"
+
 #EXTINF:-1  group-title="Mexico", Canal Imagen TV Mexico
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlONlhK778y9I88g5zxZrDH3228kyB1ycgZNmgcBQAv7)/dm/3/x82z4if/d/live-0.m3u8#cell=lnyc
 
@@ -277,6 +281,9 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 http://regioplay.xyz/php/SR_REGIO_715022_/regionuevo.php?c=elcinco&token=srregio.net&dos=.m3u8
 
 
+#EXTINF:-1  group-title="Mexico", Canal Multimedio 6
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653569060/ei/xCGPYt-OGaejkAON8LaIAg/ip/186.177.156.13/id/xdittKgg02Q.1/source/yt_live_broadcast/requiressl/yes/tx/24200494/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC0knAS7rFUCGTyQbX4niLZnZPi4HfpPjYNLRaQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIiq-80zaEQeb63Iowh7m7GrH0VMQ1kjms2hUUDdJ4qoAiBWW0_46KHoxbN4HPxWemM30RXliZYocUqYTOarJ9mJpA%3D%3D/file/index.m3u8
 
 
 
@@ -309,6 +316,16 @@ https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/chunklis
 #EXTINF:-1  group-title="Chile", Canal Mega
 
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?nimblesessionid=20656729
+
+
+#EXTINF:-1  group-title="Chile", Canal 24 Horas TVN Chile
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653569234/ei/ciKPYqn9MY230_wP_9yZwAQ/ip/186.177.156.13/id/s0ex1HDO0Hs.1/source/yt_live_broadcast/requiressl/yes/tx/24200494/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC2W8nFQo6rjd8INQO-EUl8oeQzt5hIkiO0oy4Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJOHh3F7c1THdKNmLPTLZ6hKwijLEcKyCR0PA9DR8Y0xAiEAoCyUDg_TzaewOkM-XQLQu8n9MyIb0pOk-JHi4uBKJWg%3D/file/index.m3u8
+
+
+#EXTINF:-1  group-title="Chile", Canal Mega Noticias
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653569356/ei/6yKPYtytM5ek0_wPqoSu0Ag/ip/186.177.156.13/id/TtzVcZqtnMM.1/source/yt_live_broadcast/requiressl/yes/tx/24200494/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC-61QjXSfDKTW_AW8JkR8T_-eRJ2mScVaB_8bA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANnSsyy7mPUJVjv2H5fkeSoBcUwoBeOhhNRlkLcpTqMcAiAA4mLSp6WohNw_-oVTAwnH-NI0DGl64LDSUqXbSKt5IQ%3D%3D/file/index.m3u8
 
 
 #EXTINF:-1  group-title="USA Latino", Canal Univision VPN
@@ -389,7 +406,24 @@ https://youtu.be/cMqKE0lZKXk
 https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
 
 
+#EXTINF:-1  group-title="Infantil", Canal Pocoyo
 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653569511/ei/hiOPYrq8NJSF0_wPuo-FgAQ/ip/186.177.156.13/id/gLOvBy1hLXU.1/source/yt_live_broadcast/requiressl/yes/tx/24200494/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC5VVMcq2o4aqls3kc-Vd6cCT6_i8MjkX6NVJng/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHZjmmqYeFQlvn782OudWgJpCf-C1MPWk5IX-UY09XykCIQCm6C1DD3ViDsCv6WrBfRoIvl6-1kZsyHeOpcoCDMaAlQ%3D%3D/file/index.m3u8
+
+
+
+#EXTINF:-1  group-title="Infantil", Canal Peppa Pig
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653569639/ei/BySPYui_B42uzLUPtI2b-Ao/ip/186.177.156.13/id/hl_nACnH42w.3/source/yt_live_broadcast/requiressl/yes/tx/24200494/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC8DDQOuODMvjB3Exv0__e2RuNzob8BnxSksE7w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLSSADZfDOSvDIlUQYbQ7Mb5YehF_-FMfw9d9VUJeeR0CIFZRPlk0pvwnLmJOsRiVA3jxrkpYcuK9rnb1XBMO1ozL/file/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1  group-title="Infantil", Canal Pocoyo Latino
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653569889/ei/ASWPYpiCHfyZ0_wP49eJiAI/ip/186.177.156.13/id/JtpEuRi3SEc.1/source/yt_live_broadcast/requiressl/yes/tx/24200494/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC1qN8JHilieE3r9wZFdjrTveXhUCs4_0uW6ScA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMIsMOHoI3T3JSru6K09hUmhVc3AyIz6QnILnqLzWFH3AiEArt6BI8zbo7a2WkSf6KPVYTplRUiSOslar-oB73yNuyo%3D/file/index.m3u8
 
 
 #EXTINF:-1  group-title="Entretenimiento", Canal Simpsons
